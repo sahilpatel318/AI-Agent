@@ -39,7 +39,7 @@ ai-agent/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/avinav456/AI_Agent.git
+   git clone https://github.com/sahilpatel318/AI_Agent.git
    cd AI_Agent/aigent
    ```
 
@@ -70,3 +70,4 @@ ai-agent/
 ## 📜 License
 This project is for **educational purposes only** as part of the Boot.dev course.  
 Feel free to fork and experiment!
+
